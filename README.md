@@ -84,7 +84,6 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Skyline](https://github.com/cosmicsarthak/cosmicsarthak/blob/master/github-metrics.svg)
   -->
   
----
 
 <!-- ## ⚡ Technologies
 
