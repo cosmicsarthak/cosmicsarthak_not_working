@@ -23,7 +23,7 @@
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-cosmicsarthak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cosmicsarthak/)](https://www.linkedin.com/in/cosmicsarthak/)
-[![Twitter Badge](https://img.shields.io/badge/-cosmicsarthak-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.linkedin.com/in/cosmicsarthak/)](https://www.linkedin.com/in/cosmicsarthak/)
+[![Twitter Badge](https://img.shields.io/badge/-cosmicsarthak-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/cosmicsarthak/)](https://www.twitter.com/cosmicsarthak/)
 [![Instagram Badge](https://img.shields.io/badge/-cosmic_sarthak-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/cosmic_sarthak)
 [![Gmail Badge](https://img.shields.io/badge/-sarthakmohanty200@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:sarthakmohanty200@gmail.com)
 <!-- [![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna) -->
