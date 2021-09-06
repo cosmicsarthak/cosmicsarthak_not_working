@@ -14,7 +14,7 @@
 
 💖 I am learning Web Dev Now.You can find me as **_cosmicsarthak_** on Competitive Programming Platforms: CodeForces, CodeChef, AtCoder, LeetCode.
 
-👩‍💻 Nowadays, I’m currently exporing the vast field of Web Development.
+👩‍💻 Nowadays, I’m currently exporing the infinite space of Web Development.
 
 ⚡ Fun fact: I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow 😪
 
