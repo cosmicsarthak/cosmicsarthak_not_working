@@ -32,14 +32,16 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ---
 
 <!-- <br> -->
+<p> <img src="https://octodex.github.com/images/Fintechtocat.png" height="220px" width="220px" align="right"></p>
 
-## 🛠 &nbsp;Tech Stack
 
-- 💻 &nbsp;
+## 🛠 Tech Stack
+
+- 💻 ***LANGUAGES:***
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-- 🌐 &nbsp;
+- 🌐 ***WEB TECHNOLOGIES:***
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -57,7 +59,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
  -->
 
-- ⚙️ &nbsp;
+- ⚙️ ***TOOLS:***
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
@@ -65,12 +67,14 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br />
+<!-- NUX_Octodex.gif -->
+<p> <img src="https://octodex.github.com/images/skatetocat.png" height="300px" width="300px" align="right"></p>
 
 <a href="https://www.linkedin.com/in/cosmicsarthak"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=cosmicsarthak&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmicsarthak&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cosmicsarthak.cosmicsarthak) -->
 
-<br />
+<!-- <br /> -->
 
 <!-- ADVANCED STREAKS AND CONTRIBUTION MAPPERS -->
 <!--
