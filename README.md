@@ -12,11 +12,11 @@
 
 :octocat: I love learning new Tech Stuffs 💖 :octocat:!
 
-💖 I am learning Web Dev Now.You can find me as **_cosmicsarthak_** on Competitive Programming Platforms: CodeForces, CodeChef, AtCoder, LeetCode.
+🥳 I am learning Web Dev nowadays. You can find me as **_cosmicsarthak_** on Competitive Programming Platforms: CodeForces, CodeChef, AtCoder, LeetCode.
 
 👩‍💻 Nowadays, I’m currently exporing the infinite space of Web Development.
 
-⚡ Fun fact: I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow 😪
+🌟 Fun fact: I have a Computer Science Engineering background, but most of the credit goes to Google and Stack Overflow 🤯
 
 ✍🏻 I regularly make notes of what I learn and deploy them as Static Sites.
 
