@@ -70,7 +70,6 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 </section> 
   
 <br />
-
   
 ### Watch my contribution graph get eaten by the snake 🐍
 
