@@ -48,25 +48,22 @@ _I am always open to collaborating on projects and innovative/disruptive ideas. 
 
 ## 🛠 Tech Stack
 
-- 💻 ***LANGUAGES:***
+- 💻 ***Languages:***
   ![C++](https://img.shields.io/badge/-C++-fc9700?style=flat&logo=C%2B%2B&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-03ba00?style=flat&logo=Java&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-fc00fc?style=flat&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-f4fc00?style=flat&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-- 🌐 ***WEB TECHNOLOGIES:***
+- 🌐 ***Web Technologies:***
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-
-<!--
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
- -->
-
-- ⚙️ ***TOOLS:***
+  `not yet`
+<!--   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql) -->
+- ⚙️ ***Tools:***
   ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab)
