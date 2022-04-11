@@ -34,7 +34,7 @@ _I am always open to collaborating on projects and innovative/disruptive ideas. 
   <a href="https://twitter.com/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-cosmicsarthak-00acee?style=plastic&logo=Twitter&logoColor=white"></a>
   <a href="https://linkedin.com/in/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-cosmicsarthak-0e76a8?style=plastic&logo=Linkedin&logoColor=white"></a>
   <a href="https://t.me/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-cosmicsarthak-00fbff?style=plastic&logo=Telegram&logoColor=white"></a>
-  <a href="https://instagram.com/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-cosmicsarthak-e100ff?style=plastic&logo=Instagram&logoColor=white"></a>
+  <a href="https://instagram.com/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-@cosmicsarthak-e100ff?style=plastic&logo=Instagram&logoColor=white"></a>
 </p>
   
 <br />
