@@ -20,22 +20,26 @@
 
 🥳 I am learning Web Dev nowadays. You can find me as **_cosmicsarthak_** on Competitive Programming Platforms: CodeForces, CodeChef, AtCoder, LeetCode.
 
-👩‍💻 Nowadays, I’m exporing the infinite Web Dev space.
+👩‍💻 _Nowadays,_ I’m exporing the infinite Web Dev space.
 
-🌟 Fun fact: I have a Computer Science Engineering background, but most of the credit goes to Google and Stack Overflow 🤯
+🌟 _Fun fact:_ I have a Computer Science Engineering background, but most of the credit goes to Google and Stack Overflow 🤯
 
 ✍🏻 I regularly make notes of what I learn and deploy them as Static Sites.
 
-I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+_I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:_
 
-[![Linkedin Badge](https://img.shields.io/badge/-cosmicsarthak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cosmicsarthak/)](https://www.linkedin.com/in/cosmicsarthak/)
-[![Twitter Badge](https://img.shields.io/badge/-cosmicsarthak-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/cosmicsarthak/)](https://www.twitter.com/cosmicsarthak/)
-[![Instagram Badge](https://img.shields.io/badge/-cosmicsarthak-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/cosmicsarthak/)](https://instagram.com/cosmicsarthak)
-[![Gmail Badge](https://img.shields.io/badge/-sarthakmohanty200@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:sarthakmohanty200@gmail.com)
-<!-- [![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna) -->
-<!-- [![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi) -->
+<p align="center">
+  <a href="https://sarthak.hustlers.dev" target="_blank"><img height="25" src = "https://img.shields.io/badge/sarthak.hustlers.dev-fc006d?style=plastic&logo=home&logoColor=white"></a>
+  <a href="mailto:sarthakmohanty200@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/sarthakmohanty200@gmail.com-ff5500?&plastic&logo=gmail&logoColor=white"></a>
+  <a href="https://twitter.com/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-cosmicsarthak-00acee?style=plastic&logo=Twitter&logoColor=white"></a>
+  <a href="https://linkedin.com/in/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-cosmicsarthak-0e76a8?style=plastic&logo=Linkedin&logoColor=white"></a>
+  <a href="https://t.me/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-cosmicsarthak-00fbff?style=plastic&logo=Telegram&logoColor=white"></a>
+  <a href="https://instagram.com/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-cosmicsarthak-e100ff?style=plastic&logo=Instagram&logoColor=white"></a>
+</p>
+  
+<!-- [![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna) -->
+<!-- [![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi) -->
 
----
 
 <section>
 
@@ -77,7 +81,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
   
 <br />
   
-### Watch my contribution graph get eaten by the snake 🐍
+#### Watch my contribution graph get eaten by the snake 🐍
 
 
 <!-- platane-->
@@ -113,7 +117,9 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cosmicsarthak&theme=prussian&hide_border=true)](https://git.io/streak-stats)
 <br />
 <br />
-
+icsarthak/cosmicsarthak/blob/output/github-contribution-grid-snake.svg">
+98
+  </a>
 ![Skyline](https://github.com/cosmicsarthak/cosmicsarthak/blob/master/github-metrics.svg)
   -->
   
