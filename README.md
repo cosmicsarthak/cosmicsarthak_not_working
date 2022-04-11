@@ -31,9 +31,10 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 ---
 
-<!-- <br> -->
-<p> <img src="https://octodex.github.com/images/Fintechtocat.png" height="220px" width="220px" align="right"></p>
+<section>
 
+<!-- <p> <img src="https://octodex.github.com/images/Fintechtocat.png" height="220px" width="220px" align="right"></p> -->
+<a href="https://www.linkedin.com/in/cosmicsarthak"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmicsarthak&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" height="160px" align="right"></a>
 
 ## 🛠 Tech Stack
 
@@ -66,6 +67,8 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
+</section> 
+  
 <br />
 
 ### Watch my contribution graph get eaten by the snake 🐍
@@ -74,21 +77,15 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![cosmicsarthak snake](https://github.com/cosmicsarthak/cosmicsarthak/blob/output/github-contribution-grid-snake.svg)
 <br />
 <!-- NUX_Octodex.gif -->
-<p align="left">
-<p> <img src="https://octodex.github.com/images/skatetocat.png" height="300px" width="300px" align="right"></p>
 
-<a href="https://www.linkedin.com/in/cosmicsarthak"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=cosmicsarthak&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV -->
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmicsarthak&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+  
+<img src="https://octodex.github.com/images/skatetocat.png" height="300px" width="300px" align="right">
 
-
-### Watch my contribution graph get eaten by the snake 🐍
-
-<!-- platane/snk works, it just puts it on a new branch -->
-![cosmicsarthak snake](https://github.com/cosmicsarthak/cosmicsarthak/blob/output/github-contribution-grid-snake.svg)
+<a href="https://www.linkedin.com/in/cosmicsarthak"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=cosmicsarthak&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></a>
 
 
 
-</p>
+
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cosmicsarthak.cosmicsarthak) -->
 
 <!-- <br /> -->
