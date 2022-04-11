@@ -1,4 +1,10 @@
-<h1 align="center">Hey! I'm Sarthak Mohanty <a href="https://github.com/cosmicsarthak#hey-im-sarthak-mohanty-" ><img src="https://github.com/cosmicsarthak/cosmicsarthak/blob/main/assets/wave.gif" width="30px"></a></h1> 
+<div align="center">
+
+# Hey! I'm Sarthak Mohanty <a href="https://github.com/cosmicsarthak#hey-im-sarthak-mohanty-" ><img src="https://github.com/cosmicsarthak/cosmicsarthak/blob/main/assets/wave.gif" width="30px"></a> &nbsp;  〽️ <sub> a.k.a </sub>  &nbsp; `cosmicsarthak`
+
+</div>
+
+
 <h3 align="center">Changing the world one pixel at a time!</h2>
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="180px" width="180px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="180px" width="180px"> </p>
@@ -8,13 +14,13 @@
 ## :wave: About Me
 
 <a href="https://twitter.com/cosmicsarthak" target="__blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/cosmicsarthak/" target="__blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-👩‍🎓 Hey!  I'm Sarthak, a 19 year old 1st Year B.Tech CSE Student from India.
+👩‍🎓 Hey!  I'm **Sarthak**, a 19 year old 2nd Year B.Tech CSE Student from India.
 
 :octocat: I love learning new Tech Stuffs 💖 :octocat:!
 
 🥳 I am learning Web Dev nowadays. You can find me as **_cosmicsarthak_** on Competitive Programming Platforms: CodeForces, CodeChef, AtCoder, LeetCode.
 
-👩‍💻 Nowadays, I’m currently exporing the infinite space of Web Development.
+👩‍💻 Nowadays, I’m exporing the infinite Web Dev space.
 
 🌟 Fun fact: I have a Computer Science Engineering background, but most of the credit goes to Google and Stack Overflow 🤯
 
