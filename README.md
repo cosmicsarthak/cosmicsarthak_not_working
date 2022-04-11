@@ -67,7 +67,7 @@ _I am always open to collaborating on projects and innovative/disruptive ideas. 
   ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  ![Markdown](https://img.shields.io/badge/-Markdown-96385f?style=flat&logo=markdown)
   ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 - 🔧 ***Environment***&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
