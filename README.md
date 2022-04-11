@@ -74,6 +74,14 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 <a href="https://www.linkedin.com/in/cosmicsarthak"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=cosmicsarthak&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV -->
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmicsarthak&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
+
+### Watch my contribution graph get eaten by the snake 🐍
+
+<!-- platane/snk works, it just puts it on a new branch -->
+![cosmicsarthak snake](https://github.com/cosmicsarthak/cosmicsarthak/blob/output/github-contribution-grid-snake.svg)
+
+
+
 </p>
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cosmicsarthak.cosmicsarthak) -->
 
@@ -105,7 +113,10 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)### Watch my contribution graph get eaten by the snake 🐍
+
+<!-- platane/snk works, it just puts it on a new branch -->
+![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
