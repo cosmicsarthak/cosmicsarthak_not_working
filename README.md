@@ -50,8 +50,8 @@ _I am always open to collaborating on projects and innovative/disruptive ideas. 
 
 - 💻 ***LANGUAGES:***
   ![C++](https://img.shields.io/badge/-C++-fc9700?style=flat&logo=C%2B%2B&logoColor=white)
-  ![Java](https://img.shields.io/badge/-Java-03ba00?style=flat&logo=Java&logoColor=black)
-  ![Python](https://img.shields.io/badge/-Python-fc00fc?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-03ba00?style=flat&logo=Java&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-fc00fc?style=flat&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-f4fc00?style=flat&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 - 🌐 ***WEB TECHNOLOGIES:***
@@ -67,8 +67,9 @@ _I am always open to collaborating on projects and innovative/disruptive ideas. 
  -->
 
 - ⚙️ ***TOOLS:***
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
