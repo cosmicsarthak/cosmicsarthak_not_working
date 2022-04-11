@@ -71,19 +71,28 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
   
 <br />
 
+  
 ### Watch my contribution graph get eaten by the snake 🐍
 
-<!-- platane/snk works, it just puts it on a new branch -->
-![cosmicsarthak snake](https://github.com/cosmicsarthak/cosmicsarthak/blob/output/github-contribution-grid-snake.svg)
-<br />
-<!-- NUX_Octodex.gif -->
 
+<!-- platane-->
   
+  <a href="https://github.com/cosmicsarthak#watch-my-contribution-graph-get-eaten-by-the-snake-" >
+<!-- ![cosmicsarthak snake](https://github.com/cosmicsarthak/cosmicsarthak/blob/output/github-contribution-grid-snake.svg) -->
+  <img src="https://github.com/cosmicsarthak/cosmicsarthak/blob/output/github-contribution-grid-snake.svg">
+  </a>
+           
+<br />
+
+
 <img src="https://octodex.github.com/images/skatetocat.png" height="300px" width="300px" align="right">
 
 <a href="https://www.linkedin.com/in/cosmicsarthak"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=cosmicsarthak&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></a>
 
+### My Side Hustles
 
+- <u>**Low Eye Strain**</u> `VS Code Theme` 
+- **My Tutorials** ~ `to be updated`
 
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cosmicsarthak.cosmicsarthak) -->
@@ -92,7 +101,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 <!-- ADVANCED STREAKS AND CONTRIBUTION MAPPERS -->
 <!--
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Scosmicsarthak&theme=xcode)](https://git.io/cosmicsarthak)
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=cosmicsarthak&theme=xcode)](https://git.io/cosmicsarthak)
 
 <br />
 <br />
