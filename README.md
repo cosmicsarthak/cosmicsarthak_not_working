@@ -49,20 +49,16 @@ _I am always open to collaborating on projects and innovative/disruptive ideas. 
 ## 🛠 Tech Stack
 
 - 💻 ***LANGUAGES:***
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![C++](https://img.shields.io/badge/-C++-fc9700?style=flat&logo=C%2B%2B&logoColor=white)
+  ![Java](https://img.shields.io/badge/-Java-03ba00?style=flat&logo=Java&logoColor=black)
+  ![Python](https://img.shields.io/badge/-Python-fc00fc?style=flat&logo=python)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-f4fc00?style=flat&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 - 🌐 ***WEB TECHNOLOGIES:***
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  <!--
-    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-    ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-    ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-    ![Rails](https://img.shields.io/badge/-Rails-333333?style=flat&logo=ruby)
-    -->
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
 <!--
 - 🛢 &nbsp;
