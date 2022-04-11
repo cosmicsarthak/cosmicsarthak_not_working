@@ -1,4 +1,4 @@
-<h1 align="center">Hey! I'm Sarthak Mohanty <img src="https://github.com/cosmicsarthak/cosmicsarthak/blob/main/assets/wave.gif" width="30px"></h1> 
+<h1 align="center">Hey! I'm Sarthak Mohanty <a href="https://github.com/cosmicsarthak#hey-im-sarthak-mohanty-" ><img src="https://github.com/cosmicsarthak/cosmicsarthak/blob/main/assets/wave.gif" width="30px"></a></h1> 
 <h3 align="center">Changing the world one pixel at a time!</h2>
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="180px" width="180px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="180px" width="180px"> </p>
