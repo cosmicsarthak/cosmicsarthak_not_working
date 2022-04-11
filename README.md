@@ -9,7 +9,7 @@
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="180px" width="180px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="180px" width="180px"> </p>
 
-[**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
+> [**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
 
 ## :wave: About Me
 
@@ -26,10 +26,10 @@
 
 ✍🏻 I regularly make notes of what I learn and deploy them as Static Sites.
 
-_I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:_
+_I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:↴_
 
 <p align="center">
-  <a href="https://sarthak.hustlers.dev" target="_blank"><img height="25" src = "https://img.shields.io/badge/sarthak.hustlers.dev-fc006d?style=plastic&logo=home&logoColor=white"></a>
+  <a href="https://sarthak.hustlers.dev" target="_blank"><img height="25" src = "https://img.shields.io/badge/💫 sarthak.hustlers.dev-fc006d?style=plastic&logo=__&logoColor=white"></a>
   <a href="mailto:sarthakmohanty200@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/sarthakmohanty200@gmail.com-ff5500?&plastic&logo=gmail&logoColor=white"></a>
   <a href="https://twitter.com/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-cosmicsarthak-00acee?style=plastic&logo=Twitter&logoColor=white"></a>
   <a href="https://linkedin.com/in/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-cosmicsarthak-0e76a8?style=plastic&logo=Linkedin&logoColor=white"></a>
