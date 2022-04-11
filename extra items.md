@@ -29,3 +29,11 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
+
+[![Linkedin Badge](https://img.shields.io/badge/-cosmicsarthak-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cosmicsarthak/)](https://www.linkedin.com/in/cosmicsarthak/)
+[![Twitter Badge](https://img.shields.io/badge/-cosmicsarthak-blue?style=plastic&logo=Twitter&logoColor=white&link=https://www.twitter.com/cosmicsarthak/)](https://www.twitter.com/cosmicsarthak/)
+[![Instagram Badge](https://img.shields.io/badge/-cosmicsarthak-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/cosmicsarthak/)](https://instagram.com/cosmicsarthak)
+[![Gmail Badge](https://img.shields.io/badge/-sarthakmohanty200@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:sarthakmohanty200@gmail.com)](mailto:sarthakmohanty200@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=plastic&logo=Telegram&logoColor=white)](https://t.me/cosmicsarthak)
+[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
+[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
