@@ -37,8 +37,7 @@ _I am always open to collaborating on projects and innovative/disruptive ideas. 
   <a href="https://instagram.com/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-cosmicsarthak-e100ff?style=plastic&logo=Instagram&logoColor=white"></a>
 </p>
   
-<!-- [![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna) -->
-<!-- [![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi) -->
+<br />
 
 
 <section>
