@@ -76,9 +76,7 @@ _I am always open to collaborating on projects and innovative/disruptive ideas. 
   
 <br />
   
-#### Watch my contribution graph get eaten by the snake 🐍
-
-
+<p align="center"> <strong><em><sub align="center"> Watch my contribution graph get eaten by the snake 🐍 </sub></strong></em> </p>
 <!-- platane-->
   
   <a href="https://github.com/cosmicsarthak#watch-my-contribution-graph-get-eaten-by-the-snake-" >
@@ -86,6 +84,7 @@ _I am always open to collaborating on projects and innovative/disruptive ideas. 
   <img src="https://github.com/cosmicsarthak/cosmicsarthak/blob/output/github-contribution-grid-snake.svg">
   </a>
            
+<br />
 <br />
 
 <section>
