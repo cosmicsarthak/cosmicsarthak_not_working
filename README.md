@@ -100,7 +100,7 @@ _I am always open to collaborating on projects and innovative/disruptive ideas. 
 
 <!-- <img src="https://octodex.github.com/images/skatetocat.png" height="300px" width="300px" align="right"> -->
 
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=cosmicsarthak&row=3&column=4&margin-h=8&count_private=true&margin-w=10&no-frame=false" />
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=cosmicsarthak&row=3&column=4&margin-h=8&count_private=true&margin-w=10&no-frame=false&rank=-?" />
 <!--  
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=cosmicsarthak&row=3&column=4&margin-h=8&theme=darkhub&count_private=true&margin-w=10&no-frame=false" />
     -->  <!-- for dark theme     -->
