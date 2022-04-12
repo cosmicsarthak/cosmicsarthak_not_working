@@ -14,7 +14,7 @@
 ## :wave: About Me
 
 <a href="https://twitter.com/cosmicsarthak" target="__blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/cosmicsarthak/" target="__blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-👩‍🎓 Hey!  I'm **Sarthak**, a 19 year old 2nd Year B.Tech CSE Student from India.
+👩‍🎓 Hey!  I'm **Sarthak**, a 19 year old *2<sup>nd</sup> Year B.Tech CSE Student* from India.
 
 :octocat: I love learning new Tech Stuffs 💖 :octocat:!
 
@@ -88,10 +88,19 @@ _I am always open to collaborating on projects and innovative/disruptive ideas. 
            
 <br />
 
+<section>
+
+<!-- <img src="https://octodex.github.com/images/skatetocat.png" height="300px" width="300px" align="right"> -->
+
+
+<a href="https://www.linkedin.com/in/cosmicsarthak"><img height="137px" align="right" src="https://github-readme-streak-stats.herokuapp.com?user=cosmicsarthak&theme=jolly" ></a>
+
+<a href="https://www.linkedin.com/in/cosmicsarthak"><img height="137px" width="500px" src="https://github-readme-stats.vercel.app/api?username=cosmicsarthak&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></a>
+
 
 <img src="https://octodex.github.com/images/skatetocat.png" height="300px" width="300px" align="right">
 
-<a href="https://www.linkedin.com/in/cosmicsarthak"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=cosmicsarthak&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></a>
+</section>
 
 ### My Side Hustles
 
