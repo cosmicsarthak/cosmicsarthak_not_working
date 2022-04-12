@@ -107,7 +107,7 @@ _I am always open to collaborating on projects and innovative/disruptive ideas. 
   
 ### My Side Hustles
 
-- <u>**Low Eye Strain**</u> `VS Code Theme` 
+- [<u>**Low Eye Strain**</u> `VS Code Theme`](https://marketplace.visualstudio.com/items?itemName=cosmicsarthak.cosmicsarthak-Neon-theme) 
 - **My Tutorials** ~ `to be updated`
 
 
