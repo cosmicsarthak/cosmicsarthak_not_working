@@ -97,17 +97,19 @@ _I am always open to collaborating on projects and innovative/disruptive ideas. 
   
 <a href="https://www.linkedin.com/in/cosmicsarthak"><img height="130px" src="https://github-readme-stats.vercel.app/api?username=cosmicsarthak&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></a>
 
-
-<img src="https://octodex.github.com/images/skatetocat.png" height="300px" width="300px" align="right">
-
 </section>
 
+<!-- <img src="https://octodex.github.com/images/skatetocat.png" height="300px" width="300px" align="right"> -->
+
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=cosmicsarthak&row=3&column=4&margin-h=8&theme=darkhub&count_private=true&margin-w=10&no-frame=false" />
+  
+  
 ### My Side Hustles
 
 - <u>**Low Eye Strain**</u> `VS Code Theme` 
 - **My Tutorials** ~ `to be updated`
 
-
+   <img align="right" src="https://github-profile-trophy.vercel.app/?username=cosmicsarthak&row=3&column=4&margin-h=8&count_private=true&margin-w=10&no-frame=false" />
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cosmicsarthak.cosmicsarthak) -->
 
 <!-- <br /> -->
