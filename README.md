@@ -93,8 +93,10 @@ _I am always open to collaborating on projects and innovative/disruptive ideas. 
 <!-- <img src="https://octodex.github.com/images/skatetocat.png" height="300px" width="300px" align="right"> -->
 
 
-<a href="https://www.linkedin.com/in/cosmicsarthak"><img height="137px" align="right" src="https://github-readme-streak-stats.herokuapp.com?user=cosmicsarthak&theme=jolly" ></a>
+<a href="https://www.linkedin.com/in/cosmicsarthak"><img height="137px" align="right"  src="http://github-readme-streak-stats.herokuapp.com?user=cosmicsarthak&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" ></a>
 
+<!--   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cosmicsarthak&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
+  
 <a href="https://www.linkedin.com/in/cosmicsarthak"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=cosmicsarthak&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></a>
 
 
