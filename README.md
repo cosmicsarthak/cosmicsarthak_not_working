@@ -26,7 +26,8 @@
 🌟 _Fun fact:_ I have a Computer Science Engineering background, but most of the credit goes to Google and Stack Overflow 🤯
 
 ✍🏻 I regularly make notes of what I learn and deploy them as Static Sites.
-  
+
+<section>
 
 &emsp; &nbsp; <em>I am always open to collaborating on projects and innovative/disruptive ideas.</em>
 
@@ -36,21 +37,25 @@
   
   **Find out more about me & feel free to connect with me here:↴**
   
-  <p align="center">
+  <div align="center">
     <a href="https://sarthak.hustlers.dev" target="_blank"><img height="25" src = "https://img.shields.io/badge/💫 sarthak.hustlers.dev-fc006d?style=plastic&logo=__&logoColor=white"></a>
     <a href="mailto:sarthakmohanty200@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/sarthakmohanty200@gmail.com-ff5500?&plastic&logo=gmail&logoColor=white"></a>
     <a href="https://twitter.com/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-cosmicsarthak-00acee?style=plastic&logo=Twitter&logoColor=white"></a>
     <a href="https://linkedin.com/in/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-cosmicsarthak-0e76a8?style=plastic&logo=Linkedin&logoColor=white"></a>
     <a href="https://t.me/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-cosmicsarthak-2d16db?style=plastic&logo=Telegram&logoColor=white"></a>
     <a href="https://instagram.com/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-@cosmicsarthak-e100ff?style=plastic&logo=Instagram&logoColor=white"></a>
-</p>
+</div>
     <h2> </h2>
+  
+  ---
 
-  <p align="center">
-    <a href="https://codepen.io/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-cosmicsarthak-000?style=plastic&logo=Codepen&logoColor=white"></a>
+<div align="center">
+  <a href="https://codepen.io/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-cosmicsarthak-000?style=plastic&logo=Codepen&logoColor=white"></a>
     <a href="https://dev.to/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-cosmicsarthak-000?style=plastic&logo=dev.to&logoColor=white"></a>
-</p>
+</div>
   </div>
+  
+</section>
 <br />
 <br />
 
