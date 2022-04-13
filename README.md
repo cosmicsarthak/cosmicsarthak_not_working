@@ -25,7 +25,7 @@
 
 🌟 _Fun fact:_ I have a Computer Science Engineering background, but most of the credit goes to Google and Stack Overflow 🤯
 
-✍🏻 I always document what I learn and deploy them as Static Sites for later reference (more of a habit more than hobby).
+✍🏻 I always document what I learn and deploy them as Static Sites for later reference (more of a habit, than hobby).
 
 <section>
 
