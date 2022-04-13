@@ -45,12 +45,12 @@
     <a href="https://instagram.com/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-@cosmicsarthak-e100ff?style=plastic&logo=Instagram&logoColor=white"></a>
 </p>
     <h2> </h2>
-</div>
+
   <p align="center">
     <a href="https://codepen.io/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-cosmicsarthak-000?style=plastic&logo=Codepen&logoColor=white"></a>
     <a href="https://dev.to/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-cosmicsarthak-000?style=plastic&logo=dev.to&logoColor=white"></a>
-    
 </p>
+  </div>
 <br />
 <br />
 
