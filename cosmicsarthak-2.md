@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey! I'm Sarthak Mohanty <a href="https://github.com/cosmicsarthak#hey-im-sarthak-mohanty----%EF%B8%8F--aka----cosmicsarthak" ><img src="https://github.com/cosmicsarthak/cosmicsarthak/blob/main/assets/wave.gif" width="30px"></a> &nbsp;  〽️ <sub> a.k.a. </sub>  &nbsp; `cosmicsarthak`
+  # Hey! I'm <a href="https://sarthak.hustlers.dev">Sarthak Mohanty</a> <a href="https://github.com/cosmicsarthak#hey-im-sarthak-mohanty----%EF%B8%8F--aka----cosmicsarthak" ><img src="https://github.com/cosmicsarthak/cosmicsarthak/blob/main/assets/wave.gif" width="30px"></a> &nbsp;  〽️ <sub> a.k.a. </sub>  &nbsp; `cosmicsarthak`
 
 </div>
 
@@ -41,14 +41,14 @@
     <a href="mailto:sarthakmohanty200@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/sarthakmohanty200@gmail.com-ff5500?&plastic&logo=gmail&logoColor=white"></a>
     <a href="https://twitter.com/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-cosmicsarthak-00acee?style=plastic&logo=Twitter&logoColor=white"></a>
     <a href="https://linkedin.com/in/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-cosmicsarthak-0e76a8?style=plastic&logo=Linkedin&logoColor=white"></a>
-    <a href="https://t.me/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-cosmicsarthak-00fbff?style=plastic&logo=Telegram&logoColor=white"></a>
+    <a href="https://t.me/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-cosmicsarthak-2d16db?style=plastic&logo=Telegram&logoColor=white"></a>
     <a href="https://instagram.com/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-@cosmicsarthak-e100ff?style=plastic&logo=Instagram&logoColor=white"></a>
 </p>
     <h2> </h2>
 </div>
   <p align="center">
     <a href="https://codepen.io/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-cosmicsarthak-000?style=plastic&logo=Codepen&logoColor=white"></a>
-    <a href="https://dev.to/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-dev.to/cosmicsarthak-00acee?style=plastic&logo=Dev&logoColor=white"></a>
+    <a href="https://dev.to/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-cosmicsarthak-000?style=plastic&logo=dev.to&logoColor=white"></a>
     
 </p>
 <br />
