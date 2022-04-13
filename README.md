@@ -30,12 +30,15 @@
 <section>
 
 &emsp; &nbsp; <em>I am always open to collaborating on projects and innovative/disruptive ideas.</em>
-
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="180px" width="180px" align="left">
-<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="180px" width="180px" align="right">
-<div align="center">
+<div align="center">  
   
   **Find out more about me & feel free to connect with me here:↴**
+
+  </div>
+  
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="180px" width="180px" align="left">
+<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="180px" width="180px" align="right">
+
   
   <div align="center">
     <a href="https://sarthak.hustlers.dev" target="_blank"><img height="25" src = "https://img.shields.io/badge/💫 sarthak.hustlers.dev-fc006d?style=plastic&logo=__&logoColor=white"></a>
@@ -44,7 +47,6 @@
     <a href="https://linkedin.com/in/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-cosmicsarthak-0e76a8?style=plastic&logo=Linkedin&logoColor=white"></a>
     <a href="https://t.me/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-cosmicsarthak-2d16db?style=plastic&logo=Telegram&logoColor=white"></a>
     <a href="https://instagram.com/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-@cosmicsarthak-e100ff?style=plastic&logo=Instagram&logoColor=white"></a>
- <h2> </h2>
   </div>
     <h2> </h2>
 
@@ -52,7 +54,6 @@
   <a href="https://codepen.io/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-cosmicsarthak-000?style=plastic&logo=Codepen&logoColor=white"></a>
     <a href="https://dev.to/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-cosmicsarthak-000?style=plastic&logo=dev.to&logoColor=white"></a>
 </div>
-  </div>
   
 </section>
 <br />
