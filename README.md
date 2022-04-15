@@ -51,7 +51,7 @@
     <h2> </h2>
 
 <div align="center">
-  <a href="https://codepen.io/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-cosmicsarthak-000?style=plastic&logo=Codepen&logoColor=white"></a>
+<!--   <a href="https://codepen.io/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-cosmicsarthak-000?style=plastic&logo=Codepen&logoColor=white"></a> -->
     <a href="https://dev.to/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-cosmicsarthak-000?style=plastic&logo=dev.to&logoColor=white"></a>
 </div>
   
