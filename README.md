@@ -94,7 +94,7 @@
 </section> 
   
 <!-- <br /> -->
-<a href="#"><img width="100%" src="https://user-images.githubusercontent.com/73431135/168354343-96259aa2-f3a5-41aa-9a8c-475c28f01be3.png" /></a>
+<a href="#"><img width="100%" src="https://user-images.githubusercontent.com/73431135/168357327-e67d68a1-cb2d-4d1a-ae67-9d40792925ce.gif" /></a>
 
 <p align="center"> <strong><em><sub align="center"> Watch my contribution graph get eaten by the snake 🐍 </sub></strong></em> </p>
 <!-- platane-->
