@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Hey! I'm <a href="https://sarthak.hustlers.dev" target="_blank">Sarthak Mohanty</a> <a href="https://github.com/cosmicsarthak#hey-im-sarthak-mohanty----%EF%B8%8F--aka----cosmicsarthak" target="_blank"><img src="https://github.com/cosmicsarthak/cosmicsarthak/blob/main/assets/wave.gif" width="30px"></a> &nbsp;  〽️ <sub> a.k.a. </sub>  &nbsp; `cosmicsarthak`
+  # Hey! I'm <a href="https://sarthak.hustlers.dev" target="_blank">Sarthak Mohanty</a> <a href="https://github.com/cosmicsarthak#hey-im-sarthak-mohanty----%EF%B8%8F--aka----cosmicsarthak" target="_blank"><img src="https://github.com/cosmicsarthak/cosmicsarthak/blob/main/assets/wave.gif" width="35px" height="35px"></a> &nbsp;  〽️ <sub> a.k.a. </sub>  &nbsp; `cosmicsarthak`
 
 </div>
 
