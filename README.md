@@ -23,7 +23,7 @@
 
 👩‍💻 _Nowadays,_ I’m exporing the infinite Web Dev space.
 
-🌟 _Fun fact:_ I have a Computer Science Engineering background, but most of the credit goes to Google and Stack Overflow 🤯
+🌟 _Fun fact:_ I have a Computer Science Engineering background, but most of the credit goes to Google and Stack Overflow 🤯 
 
 ✍🏻 I always document what I learn and deploy them as Static Sites for later reference (more of a habit, than hobby).
 
