@@ -4,7 +4,7 @@
 
 </div>
 
-<h3 align="center">Changing the world one pixel at a time!</h3>
+<h3 align="center">wanna change the world one pixel at a time!</h3>
 
 
 
