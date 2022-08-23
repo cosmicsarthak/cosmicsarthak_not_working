@@ -5,7 +5,7 @@
 </div>
 
 <!-- > <h3 align="center">wanna change the world one pixel at a time!</h3> -->
-<h3 align="center">I can do magic with Animations 🪄</h3>
+<h3 align="center">I can do magic 🪄 with Animations</h3>
 
 
 <!-- <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="180px" width="180px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="180px" width="180px"> </p> -->
