@@ -52,6 +52,7 @@
 
 <div align="center">
 <!--   <a href="https://codepen.io/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-cosmicsarthak-000?style=plastic&logo=Codepen&logoColor=white"></a> -->
+    <a href="https://guide.sarthak.app" target="_blank"><img height="25" src = "https://img.shields.io/badge/🗒 guide.sarthak.app-fc006d?style=plastic&logo=__&logoColor=white"></a>
     <a href="https://dev.to/cosmicsarthak" target="_blank"><img height="25" src = "https://img.shields.io/badge/-cosmicsarthak-000?style=plastic&logo=dev.to&logoColor=white"></a>
 </div>
   
@@ -129,7 +130,7 @@
 ### My Side Hustles
 
 - [<u>**Low Eye Strain**</u> `VS Code Theme`](https://marketplace.visualstudio.com/items?itemName=cosmicsarthak.cosmicsarthak-Neon-theme) 
-- **My Tutorials** ~ `to be updated`
+- [**My Tutorials**](https://guide.sarthak.app)
 
 
 ---
